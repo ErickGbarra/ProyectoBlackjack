@@ -14,3 +14,7 @@ Jugador: juan
 Ganador: juan
 Fecha: 2025-6-24 1:59
 --------------------------
+Jugador: Erick Ibarra G
+Ganador: Dealer
+Fecha: 2025-6-24 3:19
+--------------------------
