@@ -120,8 +120,6 @@ int main(){
     delete[] jugador.mano;
     delete[] dealer.mano;
     delete[] historial;
-
-    return 0;
 }
 
 void inicializarMazo(Carta* &mazo, int &cantCartas){
